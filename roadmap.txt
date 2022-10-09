@@ -1,0 +1,8 @@
+Javascript-FE
+Node.js-BE
+Express js with node js
+API 
+EJS
+Mongo db
+Mongoose
+React.js
